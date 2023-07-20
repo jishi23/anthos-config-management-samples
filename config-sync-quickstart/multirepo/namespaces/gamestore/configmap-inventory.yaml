@@ -20,7 +20,7 @@ metadata:
   annotations:
     marketplace.com/comments: "What about chess? updated 07202023"
 data:
-  single_player: "20"
+  single_player: "20230720"
   cooperative: "60"
   competitive: "300"
 # [END anthosconfig_config_sync_quickstart_multirepo_gamestore_configmap_inventory] 
