@@ -18,7 +18,7 @@ metadata:
   name: store-inventory
   namespace: gamestore
   annotations:
-    marketplace.com/comments: "What about chess? updated 07202023"
+    marketplace.com/comments: "What about chess? updated 10252023"
 data:
   single_player: "20230720"
   cooperative: "60"
